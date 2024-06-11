@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Needhi Kore</h1>
 <h3 align="center">A passionate Software Engineer with expertise in API Development, UI/UX Design, & Cloud Solutions | An avid problem solver dedicated to transforming ideas into reality with Java and Modern Web Technologies</h3>
 <div align="center">
-  <img alt="Coding" width="400" src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-6ib6KPmkeAjDTxMxij">
+  <img alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RxZHlpYThuYXVqbWhweGFwNjN2ZnVsc3dkMWpuZDVma3ZsNmZjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.webp">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=needhikore&label=Profile%20views&color=0e75b6&style=flat" alt="needhikore" /> </p>
 
